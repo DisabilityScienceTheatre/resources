@@ -1,0 +1,25 @@
+site_name: Disability Science Theatre
+repo_url: https://github.com/DisabilityScienceTheatre/resources
+edit_uri: edit/main/docs/
+site_url: https://DisabilityScienceTheatre.github.io/resources/
+copyright: © DisabilityScienceTheatre 2022, All rights reserved
+site_author: ntno
+
+nav:
+  - Home: 'index.md'
+
+markdown_extensions:
+  - admonition
+  - meta
+  - toc:
+      permalink: "#"
+  - attr_list
+
+plugins:
+  - search
+  - git-revision-date
+
+theme:
+  name: material
+  logo: assets/wheelchair-accessibility.png #Doug C. Hardester @r3volution11; accessibleicon.org
+
