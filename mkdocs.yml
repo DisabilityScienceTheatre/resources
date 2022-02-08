@@ -27,9 +27,6 @@ nav:
   - Extras: 
     - Actual Play Shows: 'shows.md'
 
-    # - 'idk':
-    #   - Classes: 'classes.md'
-
 markdown_extensions:
   - admonition
   - meta
