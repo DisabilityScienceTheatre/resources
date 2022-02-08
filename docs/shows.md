@@ -5,7 +5,7 @@
 | [Critical Role](#critical-role) | audio, video | YouTube, Twitch | free | narrative |
 | [Dimension 20](#dimension-20) | audio (selected campaigns), video | YouTube, Dropout.tv | free (selected campaigns), subscription | comedy, anthology |
 | [Not Another D&D Podcast](#not-another-dd-podcast) | audio | | free | narrative |
-| [Three Black Halflings](#three-black-halflings) | audio |  | free |  |
+| [Three Black Halflings](#three-black-halflings) | audio |  | free | narrative |
 
 ## Critical Role
 
@@ -18,18 +18,14 @@
 ## Dimension 20
  *  Fantasy High  
  *  [Escape from the Bloodkeep](https://www.youtube.com/playlist?list=PLhOoxQxz2yFOSXAFjzg9GQFoky53tDm9d){:target="_blank", title="YouTube playlist"} 
-    - villains only office comedy  
  *  [The Unsleeping City](https://www.youtube.com/playlist?list=PLhOoxQxz2yFPI_0_7EviC1tX_nwq8SNxe){:target="_blank", title="YouTube playlist"}  
  *  Fantasy High: Sophomore Year  
  *  Tiny Heist  
  *  A Crown of Candy
-    - high stakes Game of Thrones style but everyone is made out of food  
  *  Pirates of Leviathan  
  *  The Unsleeping City: Chapter II  
  *  Mice & Murder 
-    - sherlock holmesian murder mystery but everyone is an animal  
  *  Misfits & Magic 
-    - Harry Potter satire  
  *  The Seven  
  *  Shriek Week  
  *  A Starstruck Odyssey  
