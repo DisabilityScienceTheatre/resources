@@ -7,6 +7,25 @@ site_author: ntno
 
 nav:
   - Home: 'index.md'
+  - Before Your First Game: 'tools.md'
+  - Classes:
+      - Barbarian: 'classes/barbarian.md'
+      - Fighter: 'classes/fighter.md'
+      - Warlock: 'classes/warlock.md'
+      - Paladin: 'classes/paladin.md'
+      - Bard: 'classes/bard.md'
+      - Monk: 'classes/monk.md'
+      - Ranger: 'classes/ranger.md'
+      - Rogue: 'classes/rogue.md'
+      - Druid: 'classes/druid.md'
+      - Cleric: 'classes/cleric.md'
+      - Sorcerer: 'classes/sorcerer.md'
+      - Wizard: 'classes/wizard.md'
+      - Artificer: 'classes/artificer.md'
+      - Bloodhunter: 'classes/bloodhunter.md'
+  - Disability Specific Mechanics: 'disability-mechanics.md'
+  - Extras: 
+    - Actual Play Shows: 'shows.md'
 
 markdown_extensions:
   - admonition
