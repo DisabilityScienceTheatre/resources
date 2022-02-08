@@ -13,7 +13,7 @@ build:
 	mkdocs build
 
 deploy-gh: update-robots build
-	mkdocs gh-deploy -v
+	mkdocs gh-deploy -v -f ./mkdocs.yml -b gh-pages
 
 update-robots: 
 	rm -f ./docs/robots.txt
