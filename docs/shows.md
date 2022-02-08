@@ -11,7 +11,7 @@
 
  *  [Vox Machina](https://www.youtube.com/playlist?list=PL1tiwbzkOjQz7D0l_eLJGAISVtcL7oRu_){:target="_blank", title="YouTube playlist"}  
  *  [Mighty Nein](https://www.youtube.com/playlist?list=PL1tiwbzkOjQxD0jjAE7PsWoaCrs0EkBH2){:target="_blank", title="YouTube playlist"}  
- *  Exandria Unlimited  
+ *  [Exandria Unlimited](https://www.youtube.com/playlist?list=PL1tiwbzkOjQzSnYHVT8X4pyMIbSX3i4gz){:target="_blank", title="YouTube playlist"}  
  *  [Campaign 3](https://www.youtube.com/playlist?list=PL1tiwbzkOjQydg3QOkBLG9OYqWJ0dwlxF){:target="_blank", title="YouTube playlist"}  
  *  [UnDeadwood](https://www.youtube.com/playlist?list=PL1tiwbzkOjQwuwLkGnqVdJnzQ-YNX2_qz){:target="_blank", title="YouTube playlist"}  
 
