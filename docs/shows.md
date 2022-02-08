@@ -1,11 +1,11 @@
-# shows
+# Actual Play Shows
 
-|  | Available Formats | Audio Platforms | Video Platforms | Cost | Category |
-|---|---|---|---|---|---|
-| [Critical Role](#critical-role) | audio, video |  | YouTube, Twitch | free | narrative |
-| [Dimension 20](#dimension-20) | audio (selected campaigns), video |  | YouTube, Dropout.tv | free (selected campaigns), subscription | comedy, anthology |
-| [Not Another D&D Podcast](#not-another-dd-podcast) | audio |  |  | free | narrative |
-| [Three Black Halflings](#three-black-halflings) | audio |  |  | free |  |
+|  | Available Formats  | Video Platforms | Cost | Category |
+|---|---|---|---|---|
+| [Critical Role](#critical-role) | audio, video | YouTube, Twitch | free | narrative |
+| [Dimension 20](#dimension-20) | audio (selected campaigns), video | YouTube, Dropout.tv | free (selected campaigns), subscription | comedy, anthology |
+| [Not Another D&D Podcast](#not-another-dd-podcast) | audio | | free | narrative |
+| [Three Black Halflings](#three-black-halflings) | audio |  | free |  |
 
 ## Critical Role
 
