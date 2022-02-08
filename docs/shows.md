@@ -17,15 +17,19 @@
 
 ## Dimension 20
  *  Fantasy High  
- *  [Escape from the Bloodkeep](https://www.youtube.com/playlist?list=PLhOoxQxz2yFOSXAFjzg9GQFoky53tDm9d){:target="_blank", title="YouTube playlist"}  
+ *  [Escape from the Bloodkeep](https://www.youtube.com/playlist?list=PLhOoxQxz2yFOSXAFjzg9GQFoky53tDm9d){:target="_blank", title="YouTube playlist"} 
+    - villains only office comedy  
  *  [The Unsleeping City](https://www.youtube.com/playlist?list=PLhOoxQxz2yFPI_0_7EviC1tX_nwq8SNxe){:target="_blank", title="YouTube playlist"}  
  *  Fantasy High: Sophomore Year  
  *  Tiny Heist  
- *  A Crown of Candy  
+ *  A Crown of Candy
+    - high stakes Game of Thrones style but everyone is made out of food  
  *  Pirates of Leviathan  
  *  The Unsleeping City: Chapter II  
- *  Mice & Murder  
- *  Misfits & Magic  
+ *  Mice & Murder 
+    - sherlock holmesian murder mystery but everyone is an animal  
+ *  Misfits & Magic 
+    - Harry Potter satire  
  *  The Seven  
  *  Shriek Week  
  *  A Starstruck Odyssey  
