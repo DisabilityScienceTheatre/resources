@@ -1,0 +1,17 @@
+version: '3'
+services:
+  windows:
+    image: ntno/ubuntu-build-base:1.0.0
+    restart: "no"    
+    volumes:
+      - ${SSH_HOME_FOR_DOCKER}/id_ed25519:/root/.ssh/id_ed25519
+      - ${SSH_HOME_FOR_DOCKER}/id_ed25519.pub:/root/.ssh/id_ed25519.pub
+      - ${SSH_HOME_FOR_DOCKER}/known_hosts:/root/.ssh/known_hosts
+      - ./ssh-config:/root/.ssh/config
+      - ${CURR_DIR_FOR_DOCKER}:/usr/src
+    environment: 
+      SSH_HOME_FOR_DOCKER: "${SSH_HOME_FOR_DOCKER}"
+      CURR_DIR_FOR_DOCKER: "${CURR_DIR_FOR_DOCKER}"
+      DOCKER_FROM_WINDOWS: "${DOCKER_FROM_WINDOWS}"
+      GITHUB_PERSONAL_USERNAME: "${GITHUB_PERSONAL_USERNAME}"
+      GITHUB_PERSONAL_TOKEN: "${GITHUB_PERSONAL_TOKEN}"      
