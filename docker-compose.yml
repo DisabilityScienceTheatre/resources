@@ -1,11 +1,12 @@
 version: '3'
 services:
-  unix:
-    image: ntno/ubuntu-build-base:0.0.11
-    volumes:
-      - ~/.aws/:/root/.aws:ro    #ro for read only
-      - $PWD:/usr/src
+  local_development_server:
+    build: .
+    restart: "no"
+    ports:
+      - "7000:7000"
     environment:
-      AWS_PROFILE: default
-      AWS_SHARED_CREDENTIALS_FILE: /root/.aws/credentials
-      AWS_SDK_LOAD_CONFIG: 1
+      LOG_LEVEL: info
+    volumes:
+      - './:/usr/src/'
+    entrypoint: [ "mkdocs", "serve", "-v", "--dev-addr=0.0.0.0:7000" ]
