@@ -39,6 +39,7 @@ plugins:
   - git-revision-date
 
 theme:
-  name: material
-  logo: assets/wheelchair-accessibility.png #Doug C. Hardester @r3volution11; accessibleicon.org
+    name: "mkdocs"
+    custom_dir: 'custom_theme/'
+    logo: assets/wheelchair-accessibility.png #Doug C. Hardester @r3volution11; accessibleicon.org
 
