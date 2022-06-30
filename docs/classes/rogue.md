@@ -6,4 +6,7 @@ quick_build: First, Dexterity should be your highest ability score. Make Intelli
 tagline: A scoundrel who uses stealth and trickery to overcome obstacles and enemies
 ---
 
-# rogue
+## Quick Build Recommendation  
+
+-
+-
