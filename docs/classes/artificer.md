@@ -1,9 +1,11 @@
 ---
 hit_die: d8
-rimary_ability_score: Intelligence
+primary_ability_score: Intelligence
 saves: Constitution, Intelligence
-quick_build: First, put your highest ability score in Intelligence, followed by Constitution or Dexterity. Second, choose the guild artisan background.
-tagline: Masters of invention, artifecers use ingenuity and magic to unlock extraordinary capabilities in objects
+tagline: Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects
 ---
 
-# artificer
+## Quick Build Recommendation  
+
+- Put your highest ability score in **Intelligence**, followed by **Constitution** or **Dexterity**.  
+- Choose the [guild artisan]() background.  
