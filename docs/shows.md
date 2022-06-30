@@ -1,6 +1,6 @@
 # Actual Play Shows
 
-|  | Available Formats  | Video Platforms | Cost | Category |
+| Show | Available Formats  | Video Platforms | Cost | Category |
 |---|---|---|---|---|
 | [Critical Role](#critical-role) | audio, video | YouTube, Twitch | free | narrative |
 | [Dimension 20](#dimension-20) | audio (selected campaigns), video | YouTube, Dropout.tv | free (selected campaigns), subscription | comedy, anthology |

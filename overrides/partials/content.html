@@ -1,0 +1,16 @@
+{% if page.meta.source %}
+<div class="source-links">
+{% for filename in page.meta.source %}
+    <span class="label label-primary">{{ filename }}</span>
+{% endfor %}
+</div>
+{% endif %}
+
+
+{% if page and page.meta %}
+    {% set show_class_summary = "true" if page.meta.hit_die %}
+{% endif %}
+
+{% if show_class_summary %}{% include '5e-class-summary.html' %}{% endif %}
+
+{% if page and page.content %}{{ page.content }}{% endif %}
